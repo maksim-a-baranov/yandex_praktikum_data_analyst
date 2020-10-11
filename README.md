@@ -4,7 +4,7 @@
 - Языки: Pandas, SQL.
 - Анализ данных: pandas, numpy, scipy, statsmodels.
 - Машинное обучение: scikit-learn, XGBoost.
-- Визуализация: Matplotlib, plotly, seaborn, Tableau.
+- Визуализация: matplotlib, plotly, seaborn, Tableau.
 - Парсинг данных: BeautifulSoup, requests, Геокодер Яндекс.Карт.
 - Обработка натурального языка: pymystem3, fuzzy_wuzzy.
 
