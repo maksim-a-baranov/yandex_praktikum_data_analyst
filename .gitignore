@@ -21,3 +21,9 @@
 14_game_events/user_source.csv
 00_musical_preferences/.ipynb_checkpoints/00_musical_preferences-checkpoint.ipynb
 00_musical_preferences/music_project.csv
+03_telecom_tariff/.ipynb_checkpoints/03_telecom_tariff-checkpoint.ipynb
+03_telecom_tariff/calls.csv
+03_telecom_tariff/internet.csv
+03_telecom_tariff/tariffs.csv
+03_telecom_tariff/messages.csv
+03_telecom_tariff/users.csv
