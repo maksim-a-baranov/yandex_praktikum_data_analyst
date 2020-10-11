@@ -3,8 +3,8 @@
 ## Основные инструменты:
 - Языки: Pandas, SQL.
 - Анализ данных: pandas, numpy, scipy, statsmodels.
-- Машинное обучение: Scikit-Learn, XGBoost.
-- Визуализация: Matplotlib, Plotly, Seaborn, Tableau.
+- Машинное обучение: scikit-learn, XGBoost.
+- Визуализация: Matplotlib, plotly, seaborn, Tableau.
 - Парсинг данных: BeautifulSoup, requests, Геокодер Яндекс.Карт.
 - Обработка натурального языка: pymystem3, fuzzy_wuzzy.
 
