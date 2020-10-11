@@ -15,3 +15,7 @@
 02_estate_market/.ipynb_checkpoints/02_estate_market-checkpoint.ipynb
 02_estate_market/real_estate_data.csv
 14_game_events/.ipynb_checkpoints/14_game_events-checkpoint.ipynb
+14_game_events/14_game_events.key
+14_game_events/ad_costs.csv
+14_game_events/events.csv
+14_game_events/user_source.csv
