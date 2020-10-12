@@ -40,3 +40,6 @@ praсtiсum_env_macos.yml.zip
 09_user_behavior/.ipynb_checkpoints/09_user_behavior-checkpoint.ipynb
 09_user_behavior/.ipynb_checkpoints/9 Анализ пользователей мобильного приложения-checkpoint.ipynb
 05_sql_requests/.ipynb_checkpoints/05_sql_requests-checkpoint.ipynb
+07_ab_test/hypothesis.csv
+07_ab_test/orders.csv
+07_ab_test/visitors.csv
