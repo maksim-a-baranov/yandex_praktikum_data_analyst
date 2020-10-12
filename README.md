@@ -6,7 +6,6 @@
 - Машинное обучение: scikit-learn, XGBoost.
 - Визуализация: matplotlib, plotly, seaborn, Tableau.
 - Парсинг данных: BeautifulSoup, requests, Геокодер Яндекс.Карт.
-- Обра
 
 ## Настройка окружения
 [Файл настройки окружения Anaconda](praсtiсum_env_macos.yml/) 
